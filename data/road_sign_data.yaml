@@ -1,0 +1,16 @@
+train: ../Road_Sign_Dataset/images/train/ 
+val:  ../Road_Sign_Dataset/images/val/
+test: ../Road_Sign_Dataset/images/test/
+
+# number of classes
+nc: 13
+
+# class names
+names: ["bicycle","bus", "car","cone", "garbage","human", "moto","pedestrians", "signs", "traffic light" , "train" , "tree", "truck"]
+
+
+
+
+
+
+
